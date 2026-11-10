@@ -6,3 +6,4 @@
 * [Тема 2. Бинарный поиск](bin_search) - [Условия](bin_search/README.md)
 * [Тема 3. Контейнеры (стек, очередь, дек)](containers) - [Условия](containers/README.md)
 * [Тема 4. Куча](heap) - [Условия](heap/README.md)
+* [Тема 5. Двоичные деревья поиска](BST) - [Условия](BST/README.md)
