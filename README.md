@@ -7,3 +7,4 @@
 * [Тема 3. Контейнеры (стек, очередь, дек)](containers) - [Условия](containers/README.md)
 * [Тема 4. Куча](heap) - [Условия](heap/README.md)
 * [Тема 5. Двоичные деревья поиска](BST) - [Условия](BST/README.md)
+* [Тема 6. Невзвешенные графы, DFS и BFS](unweighted_graphs) - [Условия](unweighted_graphs/README.md)
